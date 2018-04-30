@@ -4,7 +4,15 @@ Personal C daemon server to run, initialize, change GPIO pins on Raspberry Pi.
 
 More of a learning project than anything.
 
-Uses Wiringpi
+Uses Wiringpi.
+
+Compiling:
+
+- mkdir build
+- cd build
+- cmake -DCMAKE_INSTALL_PREFIX=/usr ..
+- sudo make install
+- sudo systemctl enable pithond
 
 To do:
 
