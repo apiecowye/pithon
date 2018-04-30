@@ -1,0 +1,11 @@
+[Unit]
+Description=Pithond GPIO daemon
+
+[Service]
+Type=forking
+PIDFile=/var/run/pithond.pid
+ExecStart=/usr/bin/pithond -d 
+ExecReload=/bin/kill -HUP $MAINPID
+
+[Install]
+WantedBy=multi-user.target
