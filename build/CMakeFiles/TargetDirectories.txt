@@ -1,0 +1,13 @@
+/home/pi/gitdir/temp/pithon/build/CMakeFiles/install/local.dir
+/home/pi/gitdir/temp/pithon/build/CMakeFiles/install/strip.dir
+/home/pi/gitdir/temp/pithon/build/CMakeFiles/edit_cache.dir
+/home/pi/gitdir/temp/pithon/build/CMakeFiles/rebuild_cache.dir
+/home/pi/gitdir/temp/pithon/build/CMakeFiles/list_install_components.dir
+/home/pi/gitdir/temp/pithon/build/CMakeFiles/install.dir
+/home/pi/gitdir/temp/pithon/build/src/CMakeFiles/install/local.dir
+/home/pi/gitdir/temp/pithon/build/src/CMakeFiles/install.dir
+/home/pi/gitdir/temp/pithon/build/src/CMakeFiles/pithond.dir
+/home/pi/gitdir/temp/pithon/build/src/CMakeFiles/install/strip.dir
+/home/pi/gitdir/temp/pithon/build/src/CMakeFiles/edit_cache.dir
+/home/pi/gitdir/temp/pithon/build/src/CMakeFiles/rebuild_cache.dir
+/home/pi/gitdir/temp/pithon/build/src/CMakeFiles/list_install_components.dir

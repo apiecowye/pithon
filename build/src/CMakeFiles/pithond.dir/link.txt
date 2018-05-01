@@ -1,0 +1,1 @@
+/usr/bin/cc  -D_REETRANT -DNDEBUG -fPIC -Wall -lwiringPi -Wextra -pedantic -O0 -O3 -DNDEBUG   CMakeFiles/pithond.dir/main.c.o  -o ../bin/pithond -rdynamic 
